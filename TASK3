@@ -1,0 +1,13 @@
+TASK 3:
+1.List  down all the modules of SDLC?
+Software Development Life Cycle (SDLC) is a framework that defines the steps involved in the development of software at each phase. It covers the detailed plan for building, deploying and maintaining the software.
+SDLC defines the complete cycle of development i.e. all the tasks involved in planning, creating, testing, and deploying a Software Product.
+2.what is STLC and explain all the stages of STLC?
+The stages of the STLC include Test Planning, Test Analysis, Test Design, Test Environment Setup, Test Execution, Test Closure, and Defect Retesting. Each of these stages includes specific activities and deliverables that help to ensure that the software is thoroughly tested and meets the requirements of the end users
+3.What is the different between manual and automatic testing?
+•	Manual Testing is done manually by QA analyst  whereas Automation Testing is done with the use of script, code and automation tools by a tester.
+•	Manual Testing process is not accurate because of the possibilities of human errors whereas the Automation process is reliable because it is code and script based.
+•	Manual Testing is a time-consuming process whereas Automation Testing is very fast.
+•	Manual Testing is possible without programming knowledge whereas Automation Testing is not possible without programming knowledge.
+•	Manual Testing allows random Testing whereas Automation Testing doesn’t allow random Testing.
+
